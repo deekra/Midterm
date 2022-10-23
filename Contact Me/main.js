@@ -1,6 +1,7 @@
-var name = prompt("What is your name?"); 
-var subject = prompt("subject");                             
-var additional = prompt(" Your message to me");                                             
+var name = prompt("Name"); 
+var subject = prompt("Subject"); 
+var email = prompt("Email");
+var additional = prompt("Comment");                                             
 var msg = 'Thank you!';                           // Message
 
 el.innerHTML = msg;
