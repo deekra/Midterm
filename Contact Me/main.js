@@ -1,4 +1,4 @@
-var name = prompt("Name"); 
+var name =Name ; 
 var subject = prompt("Subject"); 
 var email = prompt("Email");
 var additional = prompt("Comment");                                             
