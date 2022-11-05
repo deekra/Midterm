@@ -12,7 +12,7 @@
 			#nav, #feature, #footer {
 				margin: 1%;}
 			.column1, .column2, .column3 {
-				width: 40%;
+				width: 31.3%;
 				float: left;
 				margin: 1%;}
 			.column3 {
@@ -26,4 +26,4 @@
 			#feature, .article {
 				height: 10em;
 				margin-bottom: 1em;
-				background-color: #efefef;}
+				background-color: #efefef;}	
